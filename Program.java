@@ -11,4 +11,12 @@ public class Program {
 	public static double sumMethod(double param1, double param2) {
 		return param1 + param2;
 	}
+
+	public static double subtractMethod(double param1, double param2) {
+		return param1 - param2;
+	}
+
+	public static double multiply(double param1, double param2) {
+		return param1 * param2;
+	}
 }
